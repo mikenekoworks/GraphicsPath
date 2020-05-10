@@ -9,6 +9,7 @@ Unityでベジェ曲線を使うことができます。
 バグってたらIssueかPRをよろしくです。
 
 --
+
 You can use Bezier curves in Unity.
 It is also possible to segment Bezier curves into approximate straight lines (output to ScriptableObject)
 
